@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import ArticleList8481454Navigator from '../features/ArticleList8481454/navigator';
 import SignUp28581452Navigator from '../features/SignUp28581452/navigator';
-import BlankScreen8381451Navigator from '../features/BlankScreen8381451/navigator';
 import UserProfile78684Navigator from '../features/UserProfile78684/navigator';
 import Maps78665Navigator from '../features/Maps78665/navigator';
 import Settings78643Navigator from '../features/Settings78643/navigator';
@@ -33,7 +32,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 ArticleList8481454: { screen: ArticleList8481454Navigator },
 SignUp28581452: { screen: SignUp28581452Navigator },
-BlankScreen8381451: { screen: BlankScreen8381451Navigator },
 UserProfile78684: { screen: UserProfile78684Navigator },
 Maps78665: { screen: Maps78665Navigator },
 Settings78643: { screen: Settings78643Navigator },
